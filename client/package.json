@@ -26,5 +26,10 @@
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.3",
     "vite": "^5.2.0"
-  }
+  },
+  "description": "1) Created React app with Vite@latest 2) Initialized tailwind 3) Created git repository and push the Code 4) Add routes and Create pages for Website like Home , Profile ,  5) Add React ROuter Dom for Navigating",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
